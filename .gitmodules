@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rsemmed"]
+	path = rsemmed
+	url = https://github.com/lmyint/rsemmed
+	shallow = true
+	registered = true
